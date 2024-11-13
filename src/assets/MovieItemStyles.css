@@ -1,0 +1,17 @@
+.item span{
+    border: 4px solid #41b883;
+    border-radius: 15px;
+    width: 400px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: 500;
+
+  }
+
+  .item{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 8px;
+  }

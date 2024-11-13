@@ -1,0 +1,108 @@
+body {
+  min-height: 100vh;
+  background-color: #34495e;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  transition:
+    color 0.5s,
+    background-color 0.5s;
+  line-height: 1.6;
+  font-family:
+    Inter,
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    'Fira Sans',
+    'Droid Sans',
+    'Helvetica Neue',
+    sans-serif;
+  font-size: 15px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* .input-area{
+  display: flex;
+  flex-direction: column;
+}
+
+input{
+  border-radius: 15px;
+  height: 35px;
+  margin: 16px;
+}
+
+input:focus{
+  outline: none;
+}
+
+button{
+  border-radius: 15px;
+  margin-bottom: 8px;
+}
+.red-glow {
+  border: 5px solid red;
+  position: relative;
+} 
+
+
+
+.green-glow {
+  border: 5px solid #41b883;
+}
+
+.input-area{
+    display: flex;
+    flex-direction: column;
+  }
+  
+  input{
+    border-radius: 15px;
+    height: 35px;
+    margin: 16px;
+  }
+  
+  input:focus{
+    outline: none;
+  }
+  
+  button{
+    border-radius: 15px;
+    margin-bottom: 8px;
+  }
+  .red-glow {
+    border: 5px solid red;
+    position: relative;
+  } 
+  
+  
+  
+  .green-glow {
+    border: 5px solid #41b883;
+  }
+
+  .item span{
+    border: 4px solid #41b883;
+    border-radius: 15px;
+    width: 400px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: 500;
+
+  }
+
+  .item{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 8px;
+  } */

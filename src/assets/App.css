@@ -1,0 +1,18 @@
+@import './base.css';
+
+.main-div{
+  display: grid;
+  grid-row: inherit;
+   justify-content: center;
+   align-items: center;
+ }
+ 
+ .logo {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   color: #41b883;
+   font-weight: bolder;
+   font-size:125px;
+ }
+
